@@ -175,7 +175,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ## 📝 License
 
-This project is open source. Please check with the repository owner for license details.
+This project is currently open source. No license file has been added yet - please check with the repository owner [@Eminence-bit](https://github.com/Eminence-bit) for usage and distribution terms.
 
 ## 👥 Author
 
