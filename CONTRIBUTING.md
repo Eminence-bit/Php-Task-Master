@@ -62,7 +62,7 @@ Before you begin, make sure you have:
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Php-Task-Master.git
+   git clone https://github.com/<YOUR-USERNAME>/Php-Task-Master.git
    cd Php-Task-Master
    ```
 

@@ -175,7 +175,7 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Please check with the repository owner for license details.
 
 ## 👥 Author
 
